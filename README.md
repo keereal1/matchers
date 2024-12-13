@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ffan2koeo6n7bv3e/branch/main?svg=true)](https://ci.appveyor.com/project/keereal1/matchers/branch/main)
